@@ -1,0 +1,7 @@
+<a href="#">Index로 가기</a>
+<a href="#table">TableView로 가기</a>
+<h2>Sine Chart</h2>
+
+<div id="sineChart">
+
+</div>

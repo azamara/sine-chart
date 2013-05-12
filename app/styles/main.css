@@ -1,0 +1,11 @@
+body {
+
+}
+
+.container {
+	margin: 0 auto;
+}
+
+#sineChart {
+	fill: #FFF;
+}

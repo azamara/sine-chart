@@ -1,0 +1,22 @@
+<a href="#">Index로 가기</a>
+<a href="#chart">ChartView로 가기</a>
+<h2>Sine Table</h2>
+
+
+<table cellpadding="0" cellspacing="0" border="0" class="table table-striped" id="sineTable">
+	<thead>
+	<tr>
+		<th width="50%">x</th>
+		<th width="50%">y</th>
+	</tr>
+	</thead>
+	<tbody>
+
+	</tbody>
+	<tfoot>
+	<tr>
+		<th width="50%">x</th>
+		<th width="50%">y</th>
+	</tr>
+	</tfoot>
+</table>
